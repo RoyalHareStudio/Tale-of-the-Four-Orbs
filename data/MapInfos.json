@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889}
+{"id":1,"expanded":false,"name":"Lost Forest Explorable","order":4,"parentId":0,"scrollX":1082.6666666666667,"scrollY":624.6666666666666,"quick":false},
+{"id":2,"expanded":true,"name":"Forest Town","order":1,"parentId":0,"scrollX":1092,"scrollY":1024.6666666666667,"quick":false},
+{"id":3,"expanded":false,"name":"Weapon Shop","order":2,"parentId":2,"scrollX":1081.3333333333333,"scrollY":615.3333333333334,"quick":false},
+{"id":4,"expanded":false,"name":"Item Shop","order":3,"parentId":2,"scrollX":1081.3333333333333,"scrollY":615.3333333333334,"quick":false}
 ]
